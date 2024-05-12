@@ -1,0 +1,10 @@
+.inp{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+input{
+    float: right;
+    margin-right: 70%;
+}
